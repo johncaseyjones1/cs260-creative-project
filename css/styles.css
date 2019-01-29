@@ -1,39 +1,46 @@
 body {
+  color: #123450;
+  background-color: #FFFFFF;
+}
+
+#content {
+  padding: 3%;
+}
+
+.navbarstyle {
+  background-color: #FFFFFF;
+}
+
+.navbarstyle .active .nav-link {
+  color:#8F1D2C;
+}
+.navbarstyle .nav-link {
   color: #123456;
-  background-color: #EDF7F5;
 }
 
 nav a img {
   height: 50px;
   padding-bottom:10px;
-  padding-right:3px;
+  padding-right:15px;
 }
 
 nav h1 {
-  color:#B3B3B3;
+  color:#1B1A28;
 }
 
-.navbar {
-  background-color: #EDF7F5;
+nav form button {
+  color:#123456;
 }
 
-.navbar-expand-lg {
-  background-color: #EDF7F5;
-}
-
-.navbar-dark {
-  background-color: #EDF7F5;
-}
-
-.bg-dark {
-  background-color: #EDF7F5;
+#navbarNav {
+  right:0px;
 }
 
 #footer {
   width: 100%;
   bottom: 0;
   position: fixed;
-  background-color: #EDF7F5;
+  background-color: #FFFFFF;
   text-align: center;
   color:#B3B3B3;
   padding-top: 10px;
