@@ -1,0 +1,23 @@
+nav a img {
+  height: 50px;
+  padding-bottom:10px;
+  padding-right:3px;
+}
+
+nav h1 {
+  color:#B3B3B3;
+}
+
+nav {
+  color:#B3B3B3;
+}
+
+#footer {
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+  background-color: #343A40;
+  text-align: center;
+  color:#B3B3B3;
+  padding-top: 10px;
+}
