@@ -1,5 +1,6 @@
 body {
   color: #123456;
+  background: #EDF7F5;
 }
 
 nav a img {
@@ -10,10 +11,12 @@ nav a img {
 
 nav h1 {
   color:#B3B3B3;
+  background: #EDF7F5;
 }
 
 nav {
   color:#B3B3B3;
+  background: #EDF7F5;
 }
 
 #footer {
