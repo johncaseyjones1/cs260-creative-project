@@ -24,12 +24,16 @@ nav a img {
   padding-right:15px;
 }
 
+.navbar-toggler .navbar-toggler {
+  button-default-color:#123456;
+}
+
 nav h1 {
   color:#1B1A28;
 }
 
-nav form button {
-  color:#123456;
+nav button {
+  button-default-color:#123456;
 }
 
 #navbarNav {
