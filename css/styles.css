@@ -7,9 +7,24 @@ body {
   padding: 3%;
 }
 
-.navbarstyle {
+.navbar-light {
   background-color: #FFFFFF;
 }
+
+/*.navbar-toggler {
+  border-color: #123456;
+
+}
+
+.navbar-toggler:active {
+  border-color: #8F1D2C;
+  background-color: #8F1D2C;
+}
+
+.navbar-toggler:hover {
+  border-color: #8F1D2C;
+  background-color: #8F1D2C;
+}*/
 
 .navbarstyle .active .nav-link {
   color:#8F1D2C;
@@ -22,10 +37,6 @@ nav a img {
   height: 50px;
   padding-bottom:10px;
   padding-right:15px;
-}
-
-.navbar-toggler .navbar-toggler {
-  button-default-color:#123456;
 }
 
 nav h1 {
