@@ -73,14 +73,14 @@ body {
     text-align: center;
     color:#111111;
     font-size: 90px;
-    font-family: fantasy;
+    font-family: impact, 'Anton',sans-serif, fantasy;
 }
 
 .article #content h1 {
     text-align: center;
     color:#111111;
     font-size: 90px;
-    font-family: fantasy;
+    font-family: impact, 'Anton',sans-serif, fantasy;
 }
 
 .navbar-light {
