@@ -26,7 +26,7 @@ body {
     text-align: center;
     color:#111111;
     font-size: 90px;
-    font-family: impact, sans-serif, fantasy;
+    font-family: impact, 'Anton',sans-serif, fantasy;
 }
 
 
@@ -34,7 +34,7 @@ body {
 .main #content #article_list h3 {
     color:#111111;
     font-size: 30px;
-    font-family: impact, sans-serif, fantasy;
+    font-family: impact, 'Anton',sans-serif, fantasy;
 }
 
 .main #content #article_list h4 {
