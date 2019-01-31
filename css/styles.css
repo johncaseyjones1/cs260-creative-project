@@ -5,7 +5,7 @@ body {
 
 #content {
   padding: 3%;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
 }
 
 #article_list {
@@ -135,5 +135,5 @@ nav button {
   background-color: #FFFFFF;
   text-align: center;
   color:#B3B3B3;
-  padding-top: 10px;
+  padding-top: 2%;
 }
