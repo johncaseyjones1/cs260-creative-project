@@ -14,6 +14,32 @@ body {
     font-family: fantasy;
 }
 
+.main #content #article_list h3 {
+    text-align: right;
+    color:#111111;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+.main #content #article_list h4 {
+  text-align: right;
+  color:#111111;
+}
+
+.podcast #content h1 {
+    text-align: center;
+    color:#111111;
+    font-size: 90px;
+    font-family: fantasy;
+}
+
+.article #content h1 {
+    text-align: center;
+    color:#111111;
+    font-size: 90px;
+    font-family: fantasy;
+}
+
 .navbar-light {
   background-color: #FFFFFF;
 }
