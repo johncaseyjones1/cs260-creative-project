@@ -9,7 +9,7 @@ body {
 }
 
 #article_list {
-  display:grid;
+  display: grid;
   grid-template-columns: 10% | 40% | 40% | 10%;
   grid-template-rows: repeat(4,25%);
   justify-items: center;
@@ -104,9 +104,9 @@ nav h1 {
   color:#1B1A28;
 }
 
-nav button {
-  button-default-color:#123456;
-}
+/*nav button {
+  button:#123456;
+}*/
 
 #navbarNav {
   right:0px;
